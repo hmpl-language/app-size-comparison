@@ -2,6 +2,8 @@
 
 This repository provides "sample data" that is displayed in the clicker. It is very important to read the preface carefully before reading.
 
+![App size comparison](https://github.com/user-attachments/assets/843b4eb1-895e-4e26-933a-7dd326d3f2ff)
+
 ## Preface
 
 The provided apps roughly reflect the essence of what size apps can be if you want to create an app that depends on the server. As a developer, I intentionally and with full understanding make some apps artificially bigger and some smaller because an app in "a couple of lines of code" cannot be a real indicator of the size of real apps. If I were to make a comparison by sending a request via fetch, then a large number of apps would simply be two or even three times larger. The fact is that I tried to reduce everything to a general concept, where there is a clicker and sample code of the app.
