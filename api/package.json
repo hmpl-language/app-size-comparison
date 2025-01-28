@@ -1,0 +1,15 @@
+{
+  "name": "app-size-comparison-server",
+  "version": "1.0.0",
+  "description": "App size comparison API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js & open http://localhost:8000/api/files"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
