@@ -2,7 +2,8 @@
 
 This repository provides "sample data" that is displayed in the clicker. It is very important to read the preface carefully before reading.
 
-![App size comparison](https://github.com/user-attachments/assets/843b4eb1-895e-4e26-933a-7dd326d3f2ff)
+![App size comparison](https://github.com/user-attachments/assets/de23fd28-3112-453e-bcf8-dc469f18c606)
+
 
 ## Preface
 
